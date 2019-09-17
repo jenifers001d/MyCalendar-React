@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyCalendar-React/static/css/main.60ee674b.chunk.css",
+    "main.js": "/MyCalendar-React/static/js/main.744d1356.chunk.js",
+    "main.js.map": "/MyCalendar-React/static/js/main.744d1356.chunk.js.map",
+    "runtime~main.js": "/MyCalendar-React/static/js/runtime~main.527db7ca.js",
+    "runtime~main.js.map": "/MyCalendar-React/static/js/runtime~main.527db7ca.js.map",
+    "static/js/2.3fe4428d.chunk.js": "/MyCalendar-React/static/js/2.3fe4428d.chunk.js",
+    "static/js/2.3fe4428d.chunk.js.map": "/MyCalendar-React/static/js/2.3fe4428d.chunk.js.map",
+    "index.html": "/MyCalendar-React/index.html",
+    "precache-manifest.b81c53aaf5decc6142e166fa2be73885.js": "/MyCalendar-React/precache-manifest.b81c53aaf5decc6142e166fa2be73885.js",
+    "service-worker.js": "/MyCalendar-React/service-worker.js",
+    "static/css/main.60ee674b.chunk.css.map": "/MyCalendar-React/static/css/main.60ee674b.chunk.css.map"
+  }
+}
